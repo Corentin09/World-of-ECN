@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.centrale.objet.WoE"},{"l":"org.centrale.objet.WorldofECN"}];updateSearchResults();

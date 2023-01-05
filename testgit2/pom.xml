@@ -10,6 +10,8 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <exec.mainClass>g9_info_si.testgit2.Testgit2</exec.mainClass>
+        <sonar.organization>corentin09</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <build>
         <plugins>
